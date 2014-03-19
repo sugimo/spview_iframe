@@ -10,3 +10,7 @@ Thumbs.db
 .sass-cache
 node_modules
 bower_components
+.grunt
+dest/index.html
+dest/css
+dest/js
