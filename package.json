@@ -1,0 +1,29 @@
+{
+  "name": "spview_iframe",
+  "version": "0.0.0",
+  "description": "spview_iframe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sugimo/spview_iframe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugimo/spview_iframe/issues"
+  },
+  "homepage": "https://github.com/sugimo/spview_iframe",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-yuidoc": "^0.5.2",
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-connect": "^0.7.1",
+    "grunt-open": "^0.2.3",
+    "grunt-contrib-watch": "^0.6.0",
+    "grunt-gh-pages": "^0.9.1"
+  }
+}
